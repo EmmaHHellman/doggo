@@ -7,3 +7,16 @@ p {
   font-weight: bold;
 }
 
+button {
+  color: black;
+}
+
+.DayMode {
+  background-color: white;
+  color: black;
+}
+
+.NightMode {
+  background-color: black;
+  color: white;
+}
